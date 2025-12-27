@@ -1,4 +1,4 @@
-##### Made by Acebackwards
+##### Made by Gemsioxa
 # Project works with Skilla API and fetches all the calls and displays it
 ### There is a sort by date and choose to display only incoming or outgoing calls
 
